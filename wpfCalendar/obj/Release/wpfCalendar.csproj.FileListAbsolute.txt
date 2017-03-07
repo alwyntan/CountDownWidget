@@ -1,0 +1,20 @@
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\bin\Release\Count Down Widget.exe.config
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\bin\Release\Count Down Widget.exe.manifest
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\bin\Release\Count Down Widget.application
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\bin\Release\Count Down Widget.exe
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\bin\Release\Count Down Widget.pdb
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\controlWindow.g.cs
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\MainWindow.g.cs
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\App.g.cs
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget_MarkupCompile.cache
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget_MarkupCompile.lref
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\controlWindow.baml
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\MainWindow.baml
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget.g.resources
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\wpfCalendar.Properties.Resources.resources
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\wpfCalendar.csproj.GenerateResource.Cache
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget.exe.manifest
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget.application
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget.exe
+C:\Users\Alwyn\documents\visual studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\Count Down Widget.pdb
+C:\Users\Alwyn\Documents\Visual Studio 2015\Projects\wpfCalendar\wpfCalendar\obj\Release\wpfCalendar.csprojResolveAssemblyReference.cache
