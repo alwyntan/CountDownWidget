@@ -68,7 +68,8 @@ namespace wpfCalendar
             initialize();
             this.Left = location.X; //set x pos
             this.Top = location.Y; //set y pos
-            NavigateToCountdownPage(new CountDownManager(endDate), false); //removeLastPage = false
+
+            NavigateToCountdownPage(new CountDownManager(endDate), false);
         }
 
         public void NavigateToSettingsPage()
@@ -111,7 +112,9 @@ namespace wpfCalendar
             if (CountdownPage != null)
             {
                 CountdownPage.CountDownManager.SaveDate();
-                WidgetFileManager.saveLocationToFile(this.PointToScreen(new Point(0,0)));
+
+                Point pt = new Point(this.Left, this.Top);
+                WidgetFileManager.saveLocationToFile(pt);
             }
         }
 

@@ -78,7 +78,7 @@ namespace wpfCalendar
 
         public static void saveLocationToFile(Point screenCoordinates)
         {
-            WriteToFile(screenCoordinates.ToString() , FileType.location);
+            WriteToFile(screenCoordinates.ToString(), FileType.location);
         }
 
         private static void WriteToFile(string text, FileType fileType)
@@ -92,6 +92,7 @@ namespace wpfCalendar
                         sw.Close();
                     }
                     break;
+
                 case FileType.location:
                     using (StreamWriter sw = new StreamWriter(locationFilePath, true))
                     {
